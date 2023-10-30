@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>homework_1</title>
+    <style>
+        body {
+            background-color: grey;
+        }
+
+        .main {
+            background-color: snow;
+            margin-left: auto;
+            margin-right: auto;
+            width: 90%;
+            border-radius: 15px;
+            border: 1px darkred solid;
+        }
+
+        .elem {
+            text-align: center;
+            font-size: 30px;
+        }
+
+        .elem_p {
+            text-align: center;
+        }
+
+        .time {
+            font-size: 20px;
+            margin-left: 20px;
+
+        }
+
+        .elem_a {
+            text-align: center;
+        }
+
+        .a {
+            text-decoration: none;
+        }
+
+        .a:hover {
+            text-decoration: underline;
+        }
+
+    </style>
+</head>
+<body>
+<div class="main">
+    <h1 id="h1" class="elem">python</h1>
+    <h2 id="h2" class="elem">lavascript</h2>
+    <h3 id="h3" class="elem">css</h3>
+    <h4 id="h4" class="elem">html</h4>
+    <p id="p" class="elem_p">python - высокоуровневый язык программирования общего назначения с динамической строгой
+        типизацией и автоматическим управлением памятью[26][27], ориентированный на повышение производительности
+        разработчика,
+        читаемости кода и его качества, а также на обеспечение переносимости написанных на нём программ[28]. Язык
+        является
+        полностью объектно-ориентированным в том плане, что всё является объектами[26]. Необычной особенностью языка
+        является выделение блоков кода отступами[29]. Синтаксис ядра языка минималистичен, за счёт чего на практике
+        редко
+        возникает необходимость обращаться к документации[28]. Сам же язык известен как интерпретируемый и используется
+        в том числе для написания скриптов[26]. Недостатками языка являются зачастую более низкая скорость работы и
+        более
+        высокое потребление памяти написанных на нём программ по сравнению с аналогичным кодом,
+        написанным на компилируемых языках, таких как C или C++[2.</p>
+    <h2 class="elem_a"><a id="a" class="a" href="https://ru.wikipedia.org/wiki/Python">wikipedia</a></h2>
+    <time id="time" class="time">2023</time>
+</div>
+<script>
+    let randomColor = (arr) => {
+        let random = (min, max) => Math.round(max - Math.random() * (max - min))
+        for (i of arr) document.getElementById(i).style.color = `rgb(${random(0, 255)}, ${random(0, 255)},  ${random(0, 255)})`
+    }
+    randomColor(["h1", "h2", "h3", "h4", "p", "a", "time"])
+</script>
+</body>
+</html>
