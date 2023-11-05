@@ -20,3 +20,6 @@ def add_num_table(n):
 sp = [10, 'two', 'world', 7, 'black', 15, 'hi']
 
 [add_word_table(i) if type(i) is str else add_num_table(i) for i in sp]
+
+c.close()
+con.close()
