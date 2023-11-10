@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let rnd = (max, min) => Math.round(max - Math.random() * (max - min))
+    setInterval(() => document.body.style.background = `rgb(${rnd(0, 255)}, ${rnd(0, 255)}, ${rnd(0, 255)})`, 300)
+</script>
+</body>
+</html>
