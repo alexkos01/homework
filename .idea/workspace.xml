@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ffc3e3-e113-4180-89af-f8f1519b2aad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alchemy_db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexkos01Telebot/bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexkos01Telebot/bot_token.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/link_bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +21,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -27,7 +35,7 @@
     <setting file="file://$PROJECT_DIR$/test.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -40,22 +48,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
+    <configuration name="new_test.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="new_test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject10" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,7 +102,62 @@
       <option name="presentableId" value="Default" />
       <updated>1698004225340</updated>
       <workItem from="1698254182484" duration="281000" />
-      <workItem from="1698254476728" duration="23122000" />
+      <workItem from="1698254476728" duration="41038000" />
+      <workItem from="1698443092650" duration="1084000" />
+      <workItem from="1698481546795" duration="20368000" />
+      <workItem from="1698594809483" duration="6539000" />
+      <workItem from="1698608693879" duration="17176000" />
+      <workItem from="1698737987318" duration="22000" />
+      <workItem from="1698771729270" duration="10436000" />
+      <workItem from="1698855605692" duration="1117000" />
+      <workItem from="1698856747236" duration="6578000" />
+      <workItem from="1698918731302" duration="38007000" />
+      <workItem from="1699037411209" duration="8979000" />
+      <workItem from="1699047367862" duration="14151000" />
+      <workItem from="1699109460587" duration="11253000" />
+      <workItem from="1699121628220" duration="4976000" />
+      <workItem from="1699172182090" duration="385000" />
+      <workItem from="1699172588135" duration="10538000" />
+      <workItem from="1699205848803" duration="5712000" />
+      <workItem from="1699212010391" duration="8912000" />
+      <workItem from="1699281966703" duration="226000" />
+      <workItem from="1699282210193" duration="207000" />
+      <workItem from="1699282471133" duration="537000" />
+      <workItem from="1699297279622" duration="8482000" />
+      <workItem from="1699375524018" duration="55000" />
+      <workItem from="1699375604665" duration="1042000" />
+      <workItem from="1699377319858" duration="28913000" />
+      <workItem from="1699539263047" duration="30605000" />
+      <workItem from="1699648363106" duration="5527000" />
+      <workItem from="1699704047000" duration="9580000" />
+      <workItem from="1699729334765" duration="2599000" />
+      <workItem from="1699790171075" duration="12000" />
+      <workItem from="1699790412162" duration="129000" />
+      <workItem from="1699792619454" duration="134000" />
+      <workItem from="1699793161448" duration="31000" />
+      <workItem from="1699793219549" duration="6000" />
+      <workItem from="1699973547104" duration="3021000" />
+      <workItem from="1699978455968" duration="13529000" />
+      <workItem from="1700168094159" duration="52000" />
+      <workItem from="1700228600190" duration="30000" />
+      <workItem from="1700237268588" duration="34000" />
+      <workItem from="1700323123767" duration="71000" />
+      <workItem from="1700422617051" duration="438000" />
+      <workItem from="1700423075521" duration="48000" />
+      <workItem from="1700549518552" duration="6385000" />
+      <workItem from="1700587834933" duration="3266000" />
+      <workItem from="1700658693006" duration="3262000" />
+      <workItem from="1700671850870" duration="3000" />
+      <workItem from="1700672018127" duration="14798000" />
+      <workItem from="1700768838596" duration="16000" />
+      <workItem from="1700824393294" duration="84000" />
+      <workItem from="1700826484278" duration="1682000" />
+      <workItem from="1700842257419" duration="108000" />
+      <workItem from="1700854484181" duration="894000" />
+      <workItem from="1701018981950" duration="4605000" />
+      <workItem from="1701031352331" duration="5000" />
+      <workItem from="1701102060968" duration="13000" />
+      <workItem from="1701104679123" duration="1753000" />
     </task>
     <servers />
   </component>
@@ -96,6 +165,25 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject10$main.coverage" NAME="main Coverage Results" MODIFIED="1698254250083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject10$main.coverage" NAME="main Coverage Results" MODIFIED="1698918902248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject10$user_input.coverage" NAME="user_input Coverage Results" MODIFIED="1699705583997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject10$exam_alchemy.coverage" NAME="exam_alchemy Coverage Results" MODIFIED="1699652117893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject10$bot_2.coverage" NAME="bot 2 Coverage Results" MODIFIED="1700727593902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/fz3temp-2" />
+    <SUITE FILE_PATH="coverage/pythonProject10$test.coverage" NAME="test Coverage Results" MODIFIED="1698858006037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject10$codewars.coverage" NAME="codewars Coverage Results" MODIFIED="1699722992482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject10$bot_test.coverage" NAME="bot_test Coverage Results" MODIFIED="1700584776313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/fz3temp-2" />
+    <SUITE FILE_PATH="coverage/pythonProject10$bot.coverage" NAME="bot Coverage Results" MODIFIED="1700681243109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alexkos01Telebot" />
+    <SUITE FILE_PATH="coverage/pythonProject10$homework_db.coverage" NAME="homework_db Coverage Results" MODIFIED="1699282645508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject10$bot_token.coverage" NAME="bot_token Coverage Results" MODIFIED="1701019089161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alexkos01Telebot" />
+    <SUITE FILE_PATH="coverage/pythonProject10$alchemy_db.coverage" NAME="alchemy_db Coverage Results" MODIFIED="1699464288070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject10$alexko_aiogram_bot.coverage" NAME="alexko_aiogram_bot Coverage Results" MODIFIED="1700038763511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alexko_aiogram_bot" />
+    <SUITE FILE_PATH="coverage/pythonProject10$return_img_bot.coverage" NAME="return_img_bot Coverage Results" MODIFIED="1700753803777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject10$tesr_bot.coverage" NAME="tesr_bot Coverage Results" MODIFIED="1700826946551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject10$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1699034824456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject10$bottest.coverage" NAME="bottest Coverage Results" MODIFIED="1700031878804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject10$sqlite.coverage" NAME="sqlite Coverage Results" MODIFIED="1699551176573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject10$database.coverage" NAME="database Coverage Results" MODIFIED="1699128665813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject10$bot_link.coverage" NAME="bot_link Coverage Results" MODIFIED="1701106436505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alexkos01Telebot" />
+    <SUITE FILE_PATH="coverage/pythonProject10$exam_three.coverage" NAME="exam_three Coverage Results" MODIFIED="1699647204283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
