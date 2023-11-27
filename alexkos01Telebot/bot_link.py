@@ -3,7 +3,7 @@ from aiogram import Bot, types, executor, Dispatcher
 from aiogram.types import KeyboardButton, ReplyKeyboardMarkup, Message, InlineKeyboardButton, InlineKeyboardMarkup
 import time
 
-bot = Bot(token='6781746793:AAFUBB_PE7kuic9hTh5DNfXSU7mrN5BMa5A')
+bot = Bot(token='')
 dp = Dispatcher(bot)
 
 user_but = ReplyKeyboardMarkup(keyboard=[[KeyboardButton('текущее время и дата')], [KeyboardButton('новости'), KeyboardButton('погода'), KeyboardButton('курсы валют')]],
